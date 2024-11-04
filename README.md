@@ -1,4 +1,4 @@
 # Gen-AI
 Learning GEN-AI.
 <br>
-Author - Hooria Najeeb
+Author - Hooria Warraich
